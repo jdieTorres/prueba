@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    background-color: #111; /* Fondo en modo oscuro */
+    color: #fff; /* Texto en color blanco */
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .alumno-info {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  p {
+    font-size: 1.2em;
+  }
